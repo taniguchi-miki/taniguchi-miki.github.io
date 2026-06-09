@@ -41,13 +41,14 @@
     gap: 15px;
     margin-top: 55px;
     font-weight: 500;
+    border-bottom: none;
   }
 
   h2::after {
     content: "";
     flex: 1;
-    height: 1px;
-    background: #d8d8d8;
+    height: 2px;
+    background: #a0a0a0;
   }
 
   /* ハンバーガーボタン */

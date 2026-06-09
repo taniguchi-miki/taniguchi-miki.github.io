@@ -106,6 +106,15 @@
     background: #555;
   }
 
+.mail {
+  color: #222;
+  text-decoration: none;
+}
+
+.mail:hover {
+  text-decoration: underline;
+}
+
   /* スマホ対応 */
   @media (max-width: 800px) {
     .page {

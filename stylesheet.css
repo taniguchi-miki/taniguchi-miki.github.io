@@ -47,7 +47,7 @@
   h2::after {
     content: "";
     flex: 1;
-    height: 2px;
+    height: 1px;
     background: #a0a0a0;
   }
 

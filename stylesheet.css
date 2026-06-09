@@ -16,7 +16,7 @@
 
   /* 中央の白い帯 */
   .page {
-    width: 80%;
+    width: min(75%, 1200px);
     min-height: 100vh;
     margin: 0 auto;
     background: rgba(255, 255, 255, 0.90); /* ← 透明度 */

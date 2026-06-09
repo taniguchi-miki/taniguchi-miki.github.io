@@ -106,17 +106,6 @@
     background: #555;
   }
 
-.mail,
-.mail:visited {
-  color: #222;
-  text-decoration: none;
-}
-
-.mail:hover {
-  color: #555;
-  text-decoration: underline;
-}
-
   /* スマホ対応 */
   @media (max-width: 800px) {
     .page {

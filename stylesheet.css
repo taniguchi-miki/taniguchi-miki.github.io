@@ -106,12 +106,14 @@
     background: #555;
   }
 
-.mail {
+.mail,
+.mail:visited {
   color: #222;
   text-decoration: none;
 }
 
 .mail:hover {
+  color: #555;
   text-decoration: underline;
 }
 

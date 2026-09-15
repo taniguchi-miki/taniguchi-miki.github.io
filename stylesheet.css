@@ -51,6 +51,17 @@
     background: #a0a0a0;
   }
 
+.presentation-list {
+    padding-left: 1.5em;
+    margin: 0;
+  }
+
+.presentation-list li {
+    padding-left: 0.3em;
+    margin-bottom: 1.2em;
+    line-height: 1.8;
+  }
+
   /* ハンバーガーボタン */
   .hamburger {
     position: fixed;
